@@ -70,5 +70,4 @@ C:.
 |   README.md
 ```
 
-## Developer
-Maan Mandaliya | maan.mandaliya@dal.ca | [Portfolio](https://maanmandaliya.super.site/)
+
